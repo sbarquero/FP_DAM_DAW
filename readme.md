@@ -1,6 +1,6 @@
 ## Desarrollo de Aplicaciones Multiplataforma DAM ##
-La denominación oficial es de ** Ciclo Formativo de Grado Superior de FP**.
-Y el título obtenido es **Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma**.
+La denominación oficial es de ** Ciclo Formativo de Grado Superior de FP **.
+Y el título obtenido es ** Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma **.
 
 >### Primer Curso ###
 
@@ -18,12 +18,12 @@ Y el título obtenido es **Tecnico Superior en Desarrollo de Aplicaciones Multip
 
 | Siglas |                    Módulo                             | Horas |
 | ----- | -------------------------------------------------------- | ---:|
-| [AADD](AADD)   | Acceso a datos                                           | 105 |
-| [DDII](DDII)   | Desarrollo de interfaces                                 | 120 |
-| [LMSGI](LMSGI) | Lenguajes de marcas y sistemas de gestión de información | 125 |
-| [PMDM](PMDM)   | Programación multimedia y dispositivos móviles           |  85 |
-| [PSP](PSP)     | Programación de servicios y procesos                     |  85 |
-| [PDAM](PDAM)   | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
-| [SGE](SGE) 	 | Sistemas de gestión empresarial                          | 100 |
-| [PRAC](PRAC)   | *Formación en centros de trabajo*                        | 400 |
+| [AADD](Segundo_Curo/AADD)   | Acceso a datos                                           | 105 |
+| [DDII](Segundo_Curo/DDII)   | Desarrollo de interfaces                                 | 120 |
+| [LMSGI](Segundo_Curo/LMSGI) | Lenguajes de marcas y sistemas de gestión de información | 125 |
+| [PMDM](Segundo_Curo/PMDM)   | Programación multimedia y dispositivos móviles           |  85 |
+| [PSP](Segundo_Curo/PSP)     | Programación de servicios y procesos                     |  85 |
+| [PDAM](Segundo_Curo/PDAM)   | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
+| [SGE](Segundo_Curo/SGE) 	 | Sistemas de gestión empresarial                          | 100 |
+| [PRAC](Segundo_Curo/PRAC)   | *Formación en centros de trabajo*                        | 400 |
 ---

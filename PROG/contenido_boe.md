@@ -5,107 +5,107 @@ Este es el contenido según el __BOE__ para el módulo Programación __Código: 
 ## Contenidos BOE ##
 
 ### a) Identificación de los elementos de un programa informático: ###
->Estructura y bloques fundamentales.
-Soluciones y proyectos.
-Utilización de los entornos integrados de desarrollo.
-Variables.
-Tipos de datos.
-Literales.
-Constantes.
-Operadores y expresiones.
-Conversiones de tipo.
-Comentarios.
+>Estructura y bloques fundamentales.<br>
+Soluciones y proyectos.<br>
+Utilización de los entornos integrados de desarrollo.<br>
+Variables.<br>
+Tipos de datos.<br>
+Literales.<br>
+Constantes.<br>
+Operadores y expresiones.<br>
+Conversiones de tipo.<br>
+Comentarios.<br>
 
 ### b) Utilización de objetos: ###
->Características de los objetos.
-Instanciación de objetos.
-Utilización de métodos.
-Utilización de propiedades.
-Programación de la consola: entrada y salida de información.
-Utilización de métodos estáticos.
-Parámetros y valores devueltos.
-Librerías de objetos.
-Constructores.
-Destrucción de objetos y liberación de memoria.
+>Características de los objetos.<br>
+Instanciación de objetos.<br>
+Utilización de métodos.<br>
+Utilización de propiedades.<br>
+Programación de la consola: entrada y salida de información.<br>
+Utilización de métodos estáticos.<br>
+Parámetros y valores devueltos.<br>
+Librerías de objetos.<br>
+Constructores.<br>
+Destrucción de objetos y liberación de memoria.<br>
 
 ### c) Uso de estructuras de control: ###
->Estructuras de selección.
-Estructuras de repetición.
-Estructuras de salto.
-Control de excepciones.
-Prueba y depuración.
-Documentación.
+>Estructuras de selección.<br>
+Estructuras de repetición.<br>
+Estructuras de salto.<br>
+Control de excepciones.<br>
+Prueba y depuración.<br>
+Documentación.<br>
 
 ### d) Desarrollo de clases: ###
->Concepto de clase.
-Estructura y miembros de una clase.
-Creación de atributos.
-Creación de métodos.
-Creación de constructores.
-Encapsulación y visibilidad.
-Utilización de clases y objetos.
-Utilización de clases heredadas.
-Empaquetados de clases.
+>Concepto de clase.<br>
+Estructura y miembros de una clase.<br>
+Creación de atributos.<br>
+Creación de métodos.<br>
+Creación de constructores.<br>
+Encapsulación y visibilidad.<br>
+Utilización de clases y objetos.<br>
+Utilización de clases heredadas.<br>
+Empaquetados de clases.<br>
 
 ### e) Lectura y escritura de información: ###
->Concepto de flujo.
-Tipos de flujos. Flujos de bytes y de caracteres.
-Flujos predefinidos.
-Clases relativas a flujos.
-Utilización de flujos.
-Entrada desde teclado.
-Salida a pantalla.
-Aplicaciones del almacenamiento de información en ficheros.
-Ficheros de datos. Registros.
-Apertura y cierre de ficheros. Modos de acceso.
-Escritura y lectura de información en ficheros.
-Almacenamiento de objetos en ficheros. Persistencia. Serialización.
-Utilización de los sistemas de ficheros.
-Creación y eliminación de ficheros y directorios.
-Creación de interfaces gráficos de usuario utilizando asistentes y herramientas del entorno integrado.
-Interfaces.
-Concepto de evento.
-Creación de controladores de eventos.
-Generación de programas en entorno gráfico.
+>Concepto de flujo.<br>
+Tipos de flujos. Flujos de bytes y de caracteres.<br>
+Flujos predefinidos.<br>
+Clases relativas a flujos.<br>
+Utilización de flujos.<br>
+Entrada desde teclado.<br>
+Salida a pantalla.<br>
+Aplicaciones del almacenamiento de información en ficheros.<br>
+Ficheros de datos. Registros.<br>
+Apertura y cierre de ficheros. Modos de acceso.<br>
+Escritura y lectura de información en ficheros.<br>
+Almacenamiento de objetos en ficheros. Persistencia. Serialización.<br>
+Utilización de los sistemas de ficheros.<br>
+Creación y eliminación de ficheros y directorios.<br>
+Creación de interfaces gráficos de usuario utilizando asistentes y herramientas del entorno integrado.<br>
+Interfaces.<br>
+Concepto de evento.<br>
+Creación de controladores de eventos.<br>
+Generación de programas en entorno gráfico.<br>
 
 ### f) Aplicación de las estructuras de almacenamiento: ###
->Estructuras.
-Creación de arrays.
-Inicialización.
-Arrays multidimensionales.
-Cadenas de caracteres.
-Listas.
-Colecciones.
+>Estructuras.<br>
+Creación de arrays.<br>
+Inicialización.<br>
+Arrays multidimensionales.<br>
+Cadenas de caracteres.<br>
+Listas.<br>
+Colecciones.<br>
 
 ### g) Utilización avanzada de clases: ###
->Composición de clases.
-Herencia.
-Superclases y subclases.
-Clases y métodos abstractos y finales.
-Sobreescritura de métodos.
-Constructores y herencia.
-Acceso a métodos de la superclase.
-Polimorfismo.
+>Composición de clases.<br>
+Herencia.<br>
+Superclases y subclases.<br>
+Clases y métodos abstractos y finales.<br>
+Sobreescritura de métodos.<br>
+Constructores y herencia.<br>
+Acceso a métodos de la superclase.<br>
+Polimorfismo.<br>
 
 ### h) Mantenimiento de la persistencia de los objetos: ###
->Bases de datos orientadas a objetos.
-Características de las bases de datos orientadas a objetos.
-Instalación del gestor de bases de datos.
-Creación de bases de datos.
-Tipos de datos básicos y estructurados.
-El lenguaje de definición de objetos.
-Mecanismos de consulta.
-El lenguaje de consultas: sintaxis, expresiones, operadores.
-Recuperación, modificación y borrado de información.
-Tipos de datos objeto; atributos y métodos.
-Herencia.
-Constructores.
-Tipos de datos colección.
+>Bases de datos orientadas a objetos.<br>
+Características de las bases de datos orientadas a objetos.<br>
+Instalación del gestor de bases de datos.<br>
+Creación de bases de datos.<br>
+Tipos de datos básicos y estructurados.<br>
+El lenguaje de definición de objetos.<br>
+Mecanismos de consulta.<br>
+El lenguaje de consultas: sintaxis, expresiones, operadores.<br>
+Recuperación, modificación y borrado de información.<br>
+Tipos de datos objeto; atributos y métodos.<br>
+Herencia.<br>
+Constructores.<br>
+Tipos de datos colección.<br>
 
 ### i) Gestión de bases de datos relacionales: ###
->Establecimiento de conexiones.
-Recuperación de información.
-Utilización de asistentes.
-Manipulación de la información.
-Mecanismos de actualización de la base de datos.
-Ejecución de consultas sobre la base de datos.
+>Establecimiento de conexiones.<br>
+Recuperación de información.<br>
+Utilización de asistentes.<br>
+Manipulación de la información.<br>
+Mecanismos de actualización de la base de datos.<br>
+Ejecución de consultas sobre la base de datos.<br>
