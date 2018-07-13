@@ -18,12 +18,12 @@ Y el título obtenido es **Tecnico Superior en Desarrollo de Aplicaciones Multip
 
 | Siglas |                    Módulo                             | Horas |
 | ----- | -------------------------------------------------------- | ---:|
-| AADD  | Acceso a datos                                           | 105 |
-| DDII  | Desarrollo de interfaces                                 | 120 |
-| LMSGI | Lenguajes de marcas y sistemas de gestión de información | 125 |
-| PMDM  | Programación multimedia y dispositivos móviles           |  85 |
-| PSP   | Programación de servicios y procesos                     |  85 |
-| PDAM  | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
-| SGE 	| Sistemas de gestión empresarial                          | 100 |
-| PRAC  | *Formación en centros de trabajo*                        | 400 |
+| [AADD](AADD)   | Acceso a datos                                           | 105 |
+| [DDII](DDII)   | Desarrollo de interfaces                                 | 120 |
+| [LMSGI](LMSGI) | Lenguajes de marcas y sistemas de gestión de información | 125 |
+| [PMDM](PMDM)   | Programación multimedia y dispositivos móviles           |  85 |
+| [PSP](PSP)     | Programación de servicios y procesos                     |  85 |
+| [PDAM](PDAM)   | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
+| [SGE](SGE) 	 | Sistemas de gestión empresarial                          | 100 |
+| [PRAC](PRAC)   | *Formación en centros de trabajo*                        | 400 |
 ---

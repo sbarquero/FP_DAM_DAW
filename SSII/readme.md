@@ -1,4 +1,4 @@
-## Sistemas Informáticos (SSII) ##
+# Sistemas Informáticos (SSII) #
 
 - #### [Contenido BOE](contenido_boe.md) ####
 

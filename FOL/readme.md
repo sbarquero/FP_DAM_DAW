@@ -1,1 +1,3 @@
-# Formación y orientación laboral #
+# Formación y orientación laboral (FOL) #
+
+- #### [Contenido BOE](contenido_boe.md) ####
