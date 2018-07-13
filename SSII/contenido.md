@@ -1,9 +1,9 @@
-##Sistemas Informáticos (SSII)##
+## Sistemas Informáticos (SSII) ##
 
 Este es el contenido según el **BOE** para el módulo Sistemas Informáticos **Código: 0483**
-###Contenidos###
+### Contenidos ###
 
-######a) Explotación de Sistemas microinformáticos: ######
+###### a) Explotación de Sistemas microinformáticos: ######
 Arquitectura de ordenadores.
 Componentes de un sistema informático.
 Periféricos. Adaptadores para la conexión de dispositivos.
@@ -19,7 +19,7 @@ Medios de transmisión.
 Tipos de cableado. Conectores.
 Mapa físico y lógico de una red local.
 
-######b) Instalación de Sistemas Operativos:######
+###### b) Instalación de Sistemas Operativos: ######
 Estructura de un sistema informático.
 Arquitectura de un sistema operativo.
 Funciones de un sistema operativo.
@@ -36,7 +36,7 @@ Actualización de sistemas operativos y aplicaciones.
 Ficheros de inicio de sistemas operativos.
 Controladores de dispositivos.
 
-######c) Gestión de la información:######
+###### c) Gestión de la información: ######
 Sistemas de archivos.
 Gestión de sistemas de archivos mediante comandos y entornos gráficos.
 Estructura de directorios de sistemas operativos libres y propietarios.
@@ -48,7 +48,7 @@ Montar volúmenes en carpetas.
 Tolerancia a fallos.
 Tareas automáticas.
 
-######d) Configuración de sistemas operativos:######
+###### d) Configuración de sistemas operativos: ######
 Configuración de usuarios y grupos locales.
 Usuarios y grupos predeterminados.
 Seguridad de cuentas de usuario.
@@ -60,7 +60,7 @@ Servicios y procesos.
 Comandos de sistemas libres y propietarios.
 Herramientas de monitorización del sistema.
 
-######e) Conexión de sistemas en red:######
+###### e) Conexión de sistemas en red: ######
 Configuración del protocolo TCP/IP en un cliente de red. Direcciones IP. Máscaras de subred. IPv4. IPv6. Configuración estática. Configuración dinámica automática.
 Configuración de la resolución de nombres.
 Ficheros de configuración de red.
@@ -81,7 +81,7 @@ Seguridad en la comunicación de redes inalámbricas, WEP, WPA, WPA2-PSK WPA-PSK
 Acceso a redes WAN. Tecnologías.
 Seguridad de comunicaciones.
 
-######f) Gestión de recursos en una red:######
+###### f) Gestión de recursos en una red: ######
 Diferencias entre permisos y derechos. Permisos de red. Permisos locales. Herencia. Permisos efectivos. Delegación de permisos. Listas de control de acceso.
 Derechos de usuarios. Directivas de seguridad. Objetos de directiva. Ámbito de las directivas. Plantillas.
 Requisitos de seguridad del sistema y de los datos.
@@ -95,7 +95,7 @@ Herramientas de análisis y administración.
 Cortafuegos.
 Sistemas de detección de intrusión.
 
-######g) Explotación de aplicaciones informáticas de propósito general:######
+###### g) Explotación de aplicaciones informáticas de propósito general: ######
 Tipos de software.
 Requisitos del software.
 Herramientas ofimáticas.
