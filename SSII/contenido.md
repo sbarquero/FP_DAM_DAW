@@ -4,14 +4,10 @@ Este es el contenido según el **BOE** para el módulo Sistemas Informáticos **
 ### Contenidos ###
 
 ###### a) Explotación de Sistemas microinformáticos: ######
-Arquitectura de ordenadores.
-
-Componentes de un sistema informático.
-
-Periféricos. Adaptadores para la conexión de dispositivos.
-
-Chequeo y diagnóstico.
-
+Arquitectura de ordenadores.<br>
+Componentes de un sistema informático.<br>
+Periféricos. Adaptadores para la conexión de dispositivos.<br>
+Chequeo y diagnóstico.<br>
 Herramientas de monitorización.
 Normas de seguridad y prevención de riesgos laborales.
 Sistemas de comunicación.
