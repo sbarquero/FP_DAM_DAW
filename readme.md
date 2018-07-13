@@ -1,4 +1,6 @@
-## FP Desarrollo Aplicaciones Multiplataforma DAM ##  
+## Desarrollo de Aplicaciones Multiplataforma DAM ##
+La denominación oficial es de ** Ciclo Formativo de Grado Superior de FP**.
+Y el título obtenido es **Tecnico Superior en Desarrollo de Aplicaciones Multiplataforma**.
 
 >### Primer Curso ###
 
