@@ -18,12 +18,12 @@ Y el título obtenido es ** Tecnico Superior en Desarrollo de Aplicaciones Multi
 
 | Siglas |                    Módulo                             | Horas |
 | ----- | -------------------------------------------------------- | ---:|
-| [AADD](Segundo_Curo/AADD)   | Acceso a datos                                           | 105 |
-| [DDII](Segundo_Curo/DDII)   | Desarrollo de interfaces                                 | 120 |
-| [LMSGI](Segundo_Curo/LMSGI) | Lenguajes de marcas y sistemas de gestión de información | 125 |
-| [PMDM](Segundo_Curo/PMDM)   | Programación multimedia y dispositivos móviles           |  85 |
-| [PSP](Segundo_Curo/PSP)     | Programación de servicios y procesos                     |  85 |
-| [PDAM](Segundo_Curo/PDAM)   | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
-| [SGE](Segundo_Curo/SGE) 	 | Sistemas de gestión empresarial                          | 100 |
-| [PRAC](Segundo_Curo/PRAC)   | *Formación en centros de trabajo*                        | 400 |
+| [AADD](Segundo_Curso/AADD)   | Acceso a datos                                           | 105 |
+| [DDII](Segundo_Curso/DDII)   | Desarrollo de interfaces                                 | 120 |
+| [LMSGI](Segundo_Curso/LMSGI) | Lenguajes de marcas y sistemas de gestión de información | 125 |
+| [PMDM](Segundo_Curso/PMDM)   | Programación multimedia y dispositivos móviles           |  85 |
+| [PSP](Segundo_Curso/PSP)     | Programación de servicios y procesos                     |  85 |
+| [PDAM](Segundo_Curso/PDAM)   | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
+| [SGE](Segundo_Curso/SGE) 	 | Sistemas de gestión empresarial                          | 100 |
+| [PRAC](Segundo_Curso/PRAC)   | *Formación en centros de trabajo*                        | 400 |
 ---
