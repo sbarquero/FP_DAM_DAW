@@ -1,10 +1,10 @@
 # Proyecto de desarrollo de Aplicaciones multiplataforma (PDAM) #
 
-Este es el contenido según el __BOE__ para el módulo Proyecto de desarrollo de Aplicaciones multiplataforma (PDAM) __Código: 0491__
+Este es el contenido según el __BOE__ para el módulo Proyecto de desarrollo de Aplicaciones multiplataforma (PDAM) __Código: 0492__
 
 ## Contenidos BOE ##
 
-### a) Identificación de necesidades de necesidades del sector productivo y de la organización de la empresa: ###
+### a) Identificación de necesidades del sector productivo y de la organización de la empresa: ###
 >Identificación de las funciones de los puestos de trabajo.<br>
 Estructura y organización empresarial del sector.<br>
 Actividad de la empresa y su ubicación en el sector.<br>

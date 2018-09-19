@@ -25,5 +25,5 @@ Y el título obtenido es **Tecnico Superior en Desarrollo de Aplicaciones Multip
 | [PSP](Segundo_Curso/PSP)     | Programación de servicios y procesos                     |  85 |
 | [PDAM](Segundo_Curso/PDAM)   | Proyecto de desarrollo de aplicaciones multiplataforma   |  30 |
 | [SGE](Segundo_Curso/SGE) 	   | Sistemas de gestión empresarial                          | 100 |
-| [PRAC](Segundo_Curso/PRAC)   | *Formación en centros de trabajo*                        | 400 |
+| [FCT](Segundo_Curso/PRAC)   | *Formación en centros de trabajo*                        | 400 |
 ---
