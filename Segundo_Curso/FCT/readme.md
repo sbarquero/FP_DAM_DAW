@@ -1,3 +1,3 @@
-# Formación en Centros de Trabajo (PRAC) #
+# Formación en Centros de Trabajo (FCT) #
 
 - #### [Contenido BOE](contenido_boe.md) ####
