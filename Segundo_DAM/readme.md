@@ -1,6 +1,7 @@
-## Desarrollo de Aplicaciones Multiplataforma DAM ##
+# Desarrollo de Aplicaciones Multiplataforma DAM
 
->### Segundo curso ###
+---
+## Segundo curso DAM
 
 | Siglas |                    Módulo                             | Horas |
 | ----- | -------------------------------------------------------- | ---:|
