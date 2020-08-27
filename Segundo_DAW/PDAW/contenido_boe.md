@@ -5,7 +5,7 @@ Este es el contenido según el __BOE__ para el módulo Proyecto de desarrollo de
 ## Contenidos BOE ##
 
 ### 1. Identifica necesidades del sector productivo, relacionándolas con proyectos tipo que las puedan satisfacer.
-##### Criterios de evaluación:
+#### Criterios de evaluación:
 a) Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen.<br>
 b) Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento.<br>
 c) Se han identificado las necesidades más demandadas a las empresas.<br>
@@ -17,7 +17,7 @@ h) Se han identificado posibles ayudas o subvenciones para la incorporación de 
 i) Se ha elaborado el guión de trabajo que se va a seguir para la elaboración del proyecto.
 
 ### 2. Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y desarrollando las fases que lo componen.
-##### Criterios de evaluación:
+#### Criterios de evaluación:
 a) Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.<br>
 b) Se ha realizado el estudio de viabilidad técnica del mismo.<br>
 c) Se han identificado las fases o partes que componen el proyecto y su contenido.<br>
@@ -29,7 +29,7 @@ h) Se ha definido y elaborado la documentación necesaria para su diseño.<br>
 i) Se han identificado los aspectos que se deben controlar para garantizar la calidad del proyecto.<br>
 
 ### 3. Planifica la ejecución del proyecto, determinando el plan de intervención y la documentación asociada.
-##### Criterios de evaluación:
+#### Criterios de evaluación:
 a) Se han secuenciado las actividades ordenándolas en función de las necesidades de ejecución.<br>
 b) Se han determinado los recursos y la logística necesarios para cada actividad.<br>
 c) Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las actividades.<br>
@@ -40,7 +40,7 @@ g) Se ha hecho la valoración económica que da respuesta a las condiciones de l
 h) Sehadefinidoyelaboradoladocumentaciónnecesariaparalaimplementación o ejecución.<br>
 
 ### 4. Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados.
-##### Criterios de evaluación:
+#### Criterios de evaluación:
 a) Se ha definido el procedimiento de evaluación de las actividades o intervenciones.<br>
 b) Se han definido los indicadores de calidad para realizar la evaluación.<br>
 c) Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro.<br>
