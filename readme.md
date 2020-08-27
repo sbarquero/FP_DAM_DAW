@@ -45,7 +45,7 @@ El primer curso es común para los dos ciclos formativos. Por lo que si se obtie
 | [DAW](Segundo_DAW/DAW)     | Despliegue de aplicaciones web                           |  85 |
 | [DIW](Segundo_DAW/DIW)     | Diseño de interfaces web                                 | 120 |
 | [LMSGI](Segundo_DAW/LMSGI) | Lenguajes de marcas y sistemas de gestión de información | 125 |
-| [PDAW](Segundo_DAW/PDAM)   | Proyecto de desarrollo de aplicaciones web               |  30 |
+| [PDAW](Segundo_DAW/PDAW)   | Proyecto de desarrollo de aplicaciones web               |  30 |
 | [FCT](Segundo_DAW/FCT)     | *Formación en centros de trabajo*                        | 400 |
 
 ---
