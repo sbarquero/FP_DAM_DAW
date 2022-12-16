@@ -1,5 +1,5 @@
 # Ciclo Formativo de Grado Superior en DAM / DAW
-La denominación oficial es de **Ciclo Formativo de Grado Superior de FP **.
+La denominación oficial es de **Ciclo Formativo de Grado Superior de FP**.
 Y los títulos que se obtienen son:
 
 - **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
